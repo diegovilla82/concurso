@@ -1,0 +1,26 @@
+{
+  "name": "concurso",
+  "version": "1.0.0",
+  "description": "Sistema para carrera docente.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegovilla82/concurso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegovilla82/concurso/issues"
+  },
+  "homepage": "https://github.com/diegovilla82/concurso#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
